@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/developerofgod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developerofgod" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zaferkalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zafer-kalik-a8183621b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zaferkalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/zafer-kalik-a8183621b/" height="30" width="40" /></a>
 <a href="https://instagram.com/zaferkalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaferkalik" height="30" width="40" /></a>
 </p>
 
