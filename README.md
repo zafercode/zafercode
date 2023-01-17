@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **zaferkalik@gmail.com**
 
-- ⚡ Fun fact **I think iam funny and iam very kind**
+- ⚡ Fun fact **Letss Gooo!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
