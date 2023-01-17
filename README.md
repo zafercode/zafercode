@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zafercode" alt="zafercode" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zafercode" target="blank"><img src="https://img.shields.io/twitter/follow/developerofgod?logo=twitter&style=for-the-badge" alt="developerofgod" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zafercode" target="blank"><img src="https://img.shields.io/twitter/follow/zafercode?logo=twitter&style=for-the-badge" alt="zafercode" /></a> </p>
 
 - 🔭 I’m currently working on Hibiskus Adworks [Hotel project](http://www.norviahotels.com.tr/home.html)
 
