@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/zafercode" target="blank"><img src="https://img.shields.io/twitter/follow/zafercode?logo=twitter&style=for-the-badge" alt="zafercode" /></a> </p>
 
-- 🔭 I’m currently working on Hibiskus Adworks [Hotel project](http://www.norviahotels.com.tr/home.html)
+- 🔭 I’m currently working on Hibiskus Adworks [Admin Dashboard](https://react-admin-dashboard-app1.netlify.app/)
 
 - 🌱 I’m currently learning **Reactjs**
 
